@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Never Stop Gaming</title>
+	<link rel ="stylesheet" href="FinalProjectCss.css">
+	</head>
+	<body>
+
+		<!––Name and logo––>
+	<h1>Never Stop Gaming<image src="Images/StoreLogo.png" alt="image of Logo: star" height="100" weight="100"></image></h1>
+	<button  class="btnCUs"type="button" style="height:50px;width:200px" onclick="window.location.href='ContactUsFrom.html'">Problem Report Form</button>
+	<div>
+	<ul>
+
+		<!––Nevigation Bar––>
+		<li><a href="FinalPriject.html">Home</a></li>
+		<li><a href="NewsPage.html">News</a></li>
+		<li><a href="Puchase.html">Games Purchase</a></li>
+		<li><a href="DiscusionTradeB.html">Discussion&Trade Board</a></li>
+	</ul>
+	</div>
+
+	<!––News Section––>
+		<h2>   N e w s</h2><hr>
+		<div class="divNews">
+		<image class="imageNews"src="Images/pokemonLetsGo.png" alt="image of pokemonLet'sGo" height="230" weight="180"></image>
+		<p class="pNews">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. In finibus vulputate condimentum. Curabitur et feugiat lacus, non dignissim velit. Proin rhoncus arcu urna, convallis aliquet orci tempus ac. Ut enim nulla, maximus non euismod vitae, tincidunt at enim. Integer dapibus pharetra ex vel tempus. Nulla porttitor venenatis tincidunt. Maecenas imperdiet ligula at justo facilisis, quis consectetur orci finibus. Quisque quis purus cursus, tincidunt tellus ut, laoreet mauris. Curabitur ullamcorper lacinia cursus. Mauris quis condimentum arcu. Pellentesque pretium eleifend nunc venenatis ultricies. Aliquam sit amet ultricies quam. Donec ac felis et nisl pellentesque vehicula a sit amet quam.
+		tincidunt tellus ut, laoreet mauris. Curabitur ullamcorper lacinia cursus. Mauris quis condimentum arcu. Pellentesque pretium eleifend nunc venenatis ultricies. Aliquam sit amet ultricies quam. Donec ac felis et nisl pellentesque vehicula a sit amet quam.tincidunt tellus ut, laoreet mauris. Curabitur ullamcorper lacinia cursus. Mauris quis condimentum arcu. Pellentesque pretium eleifend nunc venenatis ultricies. Aliquam sit amet ultricies quam. Donec ac felis et nisl pellentesque vehicula a sit amet quam.
+		</p>
+		<br>
+		</div>
+		<hr>
+			<!––Sale Info. Section––>
+		<h3>G a m e s - S a l e</h3>
+		<hr>
+	
+		<div class="divGame">
+			<p><image class="imgGame" src="Images/Spider-Man.png" alt="image of Spider-Man Ps4 game"height="150" weight="110"></image>
+			<a>Spider-Man</a><br><br>
+			Price:59.99<br><br>
+		Release Date: 2018/01/01</p>
+		</div>
+				<div class="divGame">
+			<p><image class="imgGame" src="Images/MarioOdyssey.png" alt="image of MarioOdyssey Swtich game"height="150" weight="110"></image>
+			<a>Mario Odyssey</a><br><br>
+			Price:59.99<br><br>
+		Release Date: 2018/01/01</p>
+		</div>
+				<div class="divGame">
+			<p><image class="imgGame" src="Images/TombRaider.png" alt="image of TombRaider Xbox game"height="150" weight="110"></image>
+			<a>Tomb Raider</a><br><br>
+			Price:59.99<br><br>
+		Release Date: 2018/01/01</p>
+		</div>
+				<div class="divGame">
+			<p><image class="imgGame" src="Images/OverWatch.png" alt="image of OverWatch Pc game"height="150" weight="110"></image>
+			<a>Over Watch</a><br><br>
+			Price:59.99<br><br>
+		Release Date: 2018/01/01</p>
+		</div>
+
+
+		<!––Sidebar Discussion Board––>
+		<div class="sidebar">
+			<p><h4 class="discussion"><a> _Hottest Discussion Topic</a></h4></p>
+			<a>
+				- Who is the 2018 best Game? / Mario? / God of War? / Monster Hunter?<br></a>
+				<a>- Nintendo Switch Cloud Saves are coming!!!!<br></a>
+				<a>- How do you guys keep Xbox One S controller charged?<br></a>
+			</p>
+			<p class="discussion"><a>_Hottest Item in Bid</a></p>
+			<a>- Nintendo Gamecube Games, Used without cases. Assorted titles! <br></a>
+				<a>- NBA 2K18 (Sony PlayStation 4, 2017) - Used<br></a>
+				<a>- Red Dead Reddemption 2 - PS4 / Playstation 4 Game - Barely Used! <br></a>
+				<a>- Super Mario - SW / SWtich Game - Open Box <br></a>
+		</div>
+
+		<!––footer––>
+		<div class="footer">
+			<hr>
+			<p>Privacy | Policy | Ad Choice | Terms of Use | Help | Advertise | Partnerships | Careers</p>	
+			</div>
+	 </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
